@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# Teaching with Artificial Life Workshop
+## At ALIFE 2020
 
-You can use the [editor on GitHub](https://github.com/anyaevostinar/tal-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	Because Artificial Life spans the fields of computer science and biology, it offers a unique perspective on the education of novices in both of those fields. For example, computer science students can learn about and practice object-oriented programming by implementing a simple artificial life system, while biology students can use an artificial life system to gain a better understanding of evolution. This workshop aims to bring together educators and researchers in artificial life to discuss the many ways in which artificial life can be used to teach both biology and computer science. The workshop will welcome formally-tested educational approaches but recognizes the value in reporting educational experiences that did not have a control group. A secondary goal of the workshop is to spark collaborations to formally test the effectiveness of artificial life approaches to various educational goals.
+	The workshop will be structured with a short forward to introduce the topic of artificial life in education and then proceed with invited and contributed talks on different ways that artificial life can be used for educational purposes. The second half of the workshop will focus on discussion of the general trends of what has proven successful and what has not when participants have tried to use artificial life for educational purposes as well as next steps for the presented work and work from the workshop attendees. Finally, we will provide time for brainstorming of the attendees on ways that artificial life could be used for their own educational goals.
+	The organizers will collect and publish a set of experience reports to accompany the [Artificial Life Teaching Materials repository](https://github.com/isal-alife/artificial-life-teaching-materials).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anyaevostinar/tal-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
