@@ -17,7 +17,7 @@ We welcome anyone to participate and encourage the submission of extended abstra
 * ALIFE: July 13-18, 2020
 
 ## Organizers
-Anya E. Vostinar, vostinar@grinnell.edu
-Barbara Z. Johnson
-Michael Wiser
+* Anya E. Vostinar, vostinar@grinnell.edu
+* Barbara Z. Johnson
+* Michael Wiser
 
