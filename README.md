@@ -7,3 +7,17 @@ The workshop will be structured with a short forward to introduce the topic of a
 
 The organizers will collect and publish a set of experience reports to accompany the [Artificial Life Teaching Materials repository](https://github.com/isal-alife/artificial-life-teaching-materials).
 
+## Submissions
+We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used for teaching, whether that be formal or informal settings, computer science, biology, or something else. Formal educational research is greatly welcome, but informal experience reports are also encouraged. Accepted submissions will be presented as recorded videos prior to the workshop and published as an edited collection to the Artificial Life Teaching Materials repository established by Matthew Egbert. Abstracts must be submitted via email to vostinar@grinnell.edu by June 15, 2020. 
+
+## Important Dates
+* Abstract Submission: June 15, 2020
+* Author Notification: July 1, 2020
+* Workshop: TBD
+* ALIFE: July 13-18, 2020
+
+## Organizers
+Anya E. Vostinar, vostinar@grinnell.edu
+Barbara Z. Johnson
+Michael Wiser
+
