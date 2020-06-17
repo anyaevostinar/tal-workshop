@@ -13,7 +13,7 @@ We welcome anyone to participate and encourage the submission of extended abstra
 ## Important Dates
 * Abstract Submission: June 15, 2020
 * Author Notification: July 1, 2020
-* Workshop: TBD
+* Workshop: July 18th, 1pm EDT - 4pm EDT
 * ALIFE: July 13-18, 2020
 
 ## Organizers
