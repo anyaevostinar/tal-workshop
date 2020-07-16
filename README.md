@@ -25,9 +25,9 @@ The workshop on Teaching with Artificial Life will be held as a part of the 2020
 * ALIFE: July 13-18, 2020
 
 ## Organizers
-* Anya E. Vostinar, vostinar@grinnell.edu
+* Anya E. Vostinar, vostinar@carleton.edu
 * Barbara Z. Johnson
 * Michael Wiser
 
 ## Submissions
-We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used for teaching, whether that be formal or informal settings, computer science, biology, or something else. Formal educational research is greatly welcome, but informal experience reports are also encouraged. Accepted submissions will be presented as recorded videos prior to the workshop and published as an edited collection to the Artificial Life Teaching Materials repository established by Matthew Egbert. Abstracts must be submitted via email to vostinar@grinnell.edu by June 15, 2020. 
+We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used for teaching, whether that be formal or informal settings, computer science, biology, or something else. Formal educational research is greatly welcome, but informal experience reports are also encouraged. Accepted submissions will be presented as recorded videos prior to the workshop and published as an edited collection to the Artificial Life Teaching Materials repository established by Matthew Egbert. Abstracts must be submitted via email to vostinar@carleton.edu by June 15, 2020. 
