@@ -9,7 +9,7 @@ The workshop on Teaching with Artificial Life will be held as a part of the 2020
 * 1:00-1:05: Welcome and explanation of process (Anya Vostinar)
 * 1:05-1:25: Keynote (Louise Mead)
 * 1:25-1:40: TBD (Michael Wiser)
-* 1:40-1:55: "Artificial Life in Game Mods for Intuitive Evolution Education" (Anya Vostinar)
+* 1:40-1:55: "Artificial Life in Game Mods for Intuitive Evolution Education" (Anya Vostinar and Barbara Z. Johnson)
 * 1:55-2:10: "Social Evolution Engine (SEE): Experimental social evolution using the Unity game engine" (Jasmeen Kanwal)
 * 2:10-2:25: "Embedding Artificial Life Themes in Introductory Programming Courses" (Lisa Soros)
 * 2:25-2:35: Break
